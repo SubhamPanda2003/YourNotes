@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+  }
+body{
+    
+    background-image: url('https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 100%;
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    
+    background-size: cover;
+}
+#head{
+    color: white;
+    text-align: center;
+    margin: 2rem 5rem;
+}
+.container{
+    position: relative;
+    display: flex;
+    color: white;
+    align-items: center;
+
+}
+#msg{
+   
+    margin:3rem 5rem;
+}
+p{
+    font-size: larger ;
+}
+#btn{
+    margin: 1rem ;
+    padding: 0.5rem;;
+}
+#msgs{
+    display:flex;
+}
+
+ul{
+  
+
+        
+    background-color: white;
+    color:black;
+    
+    
+}
+#myTextarea{
+    font-size: large;
+}
