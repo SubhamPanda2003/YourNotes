@@ -37,7 +37,7 @@ p{
 }
 #btn1{
     margin: 1rem ;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 #msgs{
     display:flex;
